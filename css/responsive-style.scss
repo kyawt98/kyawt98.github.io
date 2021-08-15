@@ -1,7 +1,7 @@
 // ###############
 @media screen and (min-width: 375px){
     .navbar{
-        .nav{
+        .nav-container{
             display: none;
         }
         .hamburger{
@@ -164,13 +164,10 @@
 // ###########
 @media screen and (min-width: 667px){
     .navbar{
-        .nav{
-            display: flex;
+        .nav-container{
+            display: block;
         }
         .hamburger{
-            display: none;
-        }
-        .hamburger-menu{
             display: none;
         }
     }
@@ -245,17 +242,22 @@
         grid-template-rows: 1fr;
         grid-template-areas: "one two three four";
     }
+    footer{
+        .footer-links{
+            width: 30%;
+        }
+        .social-links{
+            width: 20%;
+        }
+    }
 }
 // ###########
 @media screen and (min-width: 1199px){
     .navbar{
-        .nav{
+        .nav-container{
             display: flex;
         }
         .hamburger{
-            display: none;
-        }
-        .hamburger-menu{
             display: none;
         }
     }
@@ -339,6 +341,14 @@
                     padding-right: 6rem;
                 }
             }
+        }
+    }
+    footer{
+        .footer-links{
+            width: 30%;
+        }
+        .social-links{
+            width: 20%;
         }
     }
 }
