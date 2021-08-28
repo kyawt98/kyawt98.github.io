@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91043a80.chunk.css",
+    "main.js": "/static/js/main.7d0e3790.chunk.js",
+    "main.js.map": "/static/js/main.7d0e3790.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d6acc1d7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d6acc1d7.js.map",
+    "static/js/2.4ffe4a89.chunk.js": "/static/js/2.4ffe4a89.chunk.js",
+    "static/js/2.4ffe4a89.chunk.js.map": "/static/js/2.4ffe4a89.chunk.js.map",
+    "static/js/3.1ec3db04.chunk.js": "/static/js/3.1ec3db04.chunk.js",
+    "static/js/3.1ec3db04.chunk.js.map": "/static/js/3.1ec3db04.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.91043a80.chunk.css.map": "/static/css/main.91043a80.chunk.css.map",
+    "static/js/2.4ffe4a89.chunk.js.LICENSE.txt": "/static/js/2.4ffe4a89.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/static/media/github.0c75c77a.svg",
+    "static/media/github.png": "/static/media/github.2a411f27.png",
+    "static/media/instagram.png": "/static/media/instagram.6030a881.png",
+    "static/media/kingshark.png": "/static/media/kingshark.b9ca94f7.png",
+    "static/media/kyawt.png": "/static/media/kyawt.8d0b5e52.png",
+    "static/media/logo.png": "/static/media/logo.97ddf8f4.png",
+    "static/media/resume.pdf": "/static/media/resume.1b42d5e4.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6acc1d7.js",
+    "static/js/2.4ffe4a89.chunk.js",
+    "static/css/main.91043a80.chunk.css",
+    "static/js/main.7d0e3790.chunk.js"
+  ]
+}
